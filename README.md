@@ -13,7 +13,7 @@ This is a public repository for tracking bugs, feature requests, and updates rel
 
 ## Reporting Issues
 
-We welcome contributions from the Koha community! Here's how you can help:
+We welcome contributions from the Koha users worldwide! Here's how you can help:
 
 ### 🐛 Bug Reports
 Found something broken? [Report a bug](https://github.com/KohaSupport/kohasupport-issues/issues/new?template=bug-report.md&labels=bug)
@@ -31,13 +31,6 @@ Know of server changes or new servers? [Submit an update](https://github.com/Koh
 - **Server Updates**: Changes to Z39.50 server information
 - **Documentation**: Improvements to help or documentation
 
-## Response Times
-
-- **Critical bugs**: Within 24 hours
-- **General bugs**: Within 3-5 business days
-- **Feature requests**: Reviewed monthly
-- **Server updates**: Within 1-2 business days
-
 ## Community Guidelines
 
 - Be respectful and constructive
@@ -53,4 +46,4 @@ Know of server changes or new servers? [Submit an update](https://github.com/Koh
 
 ---
 
-*Maintained by [KohaSupport.com](https://kohasupport.com) for the Koha community*
+*Maintained by [KohaSupport.com](https://kohasupport.com)*
