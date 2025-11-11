@@ -8,21 +8,21 @@ assignees: []
 
 ## Issue Description
 **Provide a clear and concise description of the problem:**
-<-ls What went wrong? What were you trying to do? -->
+<!-- What went wrong? What were you trying to do? -->
 
 
 
 ## Environment Details
 **AMI Information:**
-- **Tier:** <-ls Free, Basic, or Standard -->
-- **Architecture:** <-ls ARM64 or x86 -->
-- **Version:** <-ls e.g., v25.05.05 -->
-- **AMI ID:** <-ls Found in EC2 console, starts with ami- -->
+- **Tier:** <!-- Free, Basic, or Standard -->
+- **Architecture:** <!-- ARM64 or x86 -->
+- **Version:** <!-- e.g., v25.05.05 -->
+- **AMI ID:** <!-- Found in EC2 console, starts with ami- -->
 
 **AWS Configuration:**
-- **Region:** <-ls e.g., us-east-1 -->
-- **Instance Type:** <-ls e.g., t4g.medium, t3a.medium -->
-- **VPC Type:** <-ls Default VPC or Custom VPC -->
+- **Region:** <!-- e.g., us-east-1 -->
+- **Instance Type:** <!-- e.g., t4g.medium, t3a.medium -->
+- **VPC Type:** <!-- Default VPC or Custom VPC -->
 
 **Deployment Method:**
 - [ ] CloudFormation (AWS Marketplace 1-click)
@@ -51,25 +51,25 @@ assignees: []
 
 ## Expected Behavior
 **What did you expect to happen?**
-<-ls Describe the expected outcome -->
+<!-- Describe the expected outcome -->
 
 
 
 ## Actual Behavior
 **What actually happened?**
-<-ls Describe what went wrong -->
+<!-- Describe what went wrong -->
 
 
 
 ## Error Messages
 **Include any error messages, logs, or screenshots:**
 ```
-<-ls Paste error messages here -->
+<!-- Paste error messages here -->
 ```
 
 **CloudFormation Events (if deployment failed):**
 ```
-<-ls Copy relevant CloudFormation stack events -->
+<!-- Copy relevant CloudFormation stack events -->
 ```
 
 **System Logs (if accessible via SSH):**
@@ -99,7 +99,7 @@ sudo journalctl -u koha-s3-backup.service -n 100
 ## Stack Outputs
 **If using CloudFormation, provide the stack outputs:**
 ```
-<-ls Copy from CloudFormation Outputs tab -->
+<!-- Copy from CloudFormation Outputs tab -->
 KohaServerIPAddress: 
 KohaAdminInterfaceURL: 
 KohaPublicCatalogURL: 
@@ -109,7 +109,7 @@ CustomStaffURL (if applicable):
 
 ## Additional Context
 **Any other relevant information:**
-<-ls Network architecture, custom configurations, timing of issue, etc. -->
+<!-- Network architecture, custom configurations, timing of issue, etc. -->
 
 
 
@@ -118,7 +118,7 @@ CustomStaffURL (if applicable):
 - [ ] No - Development/Testing
 
 **When did this issue start?**
-<-ls New deployment, after update, suddenly appeared, etc. -->
+<!-- New deployment, after update, suddenly appeared, etc. -->
 
 
 

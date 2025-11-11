@@ -16,18 +16,18 @@ assignees: []
 
 ## Description
 **What feature would you like to see added?**
-<-ls Provide a clear and concise description of the feature -->
+<!-- Provide a clear and concise description of the feature -->
 
 
 
 **What problem does this solve?**
-<-ls Explain the use case or problem this feature would address -->
+<!-- Explain the use case or problem this feature would address -->
 
 
 
 ## Proposed Solution
 **How would you like this feature to work?**
-<-ls Describe how you envision this feature functioning -->
+<!-- Describe how you envision this feature functioning -->
 
 
 
@@ -53,12 +53,12 @@ assignees: []
 
 ## Environment
 **Current AMI/Tier using:**
-<-ls e.g., Standard Tier ARM64, v25.05.05 -->
+<!-- e.g., Standard Tier ARM64, v25.05.05 -->
 
 
 
 **AWS Region:**
-<-ls e.g., us-east-1 -->
+<!-- e.g., us-east-1 -->
 
 
 
